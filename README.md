@@ -32,14 +32,16 @@ In addition to the web version, I’ve also packaged the game as a mobile app us
 ## Installation  
 
 ### Play the Web Version  
-1. Visit the [https://raazkumar24.github.io/tic-tac-toe-game/) link.  
+1. Visit the [Live Preview](https://raazkumar24.github.io/tic-tac-toe-game/).  
 2. Start playing instantly—no installation required!  
 
 ### Download the App  
 1. Download the app from the link below:  
    **[Download Tic Tac Toe App](https://drive.google.com/file/d/1HzytYXzcrvgEymm2PZ3T3eMvNMWa4rCN/view?usp=drive_link)**  
-2. Install the app on your Android device.  
-3. Launch the app and enjoy playing anytime!  
+2. Enable app installation from unknown sources on your Android device:  
+   - Go to **Settings > Security** and enable **Unknown Sources**.  
+3. Locate and install the downloaded `.apk` file.  
+4. Launch the app and enjoy playing anytime!  
 
 ---
 
@@ -74,3 +76,4 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 Thank you for visiting and playing! ✨ If you like this project, please consider giving it a 🌟 on GitHub.  
+``
